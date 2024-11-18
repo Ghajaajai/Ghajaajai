@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student majoring in informatics engineering from the National Institute of Technology, Bandung. In informatics, I chose web developer as my field of interest. Recently, I joined the Bangkit program by taking the cloud computing learning path, and now my team and I are working on a capstone project.
+I am a student majoring in informatics engineering from the Institut Teknologi Nasional Bandung. In informatics, I chose web developer as my field of interest. Recently, I joined the Bangkit program by taking the cloud computing learning path, and now my team and I are working on a capstone project.
 
 
 ## 🌐 Socials:
